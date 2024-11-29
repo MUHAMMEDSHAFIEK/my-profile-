@@ -22,19 +22,9 @@
   <!-- Popular Programming Languages -->
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
   
   
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
@@ -43,35 +33,13 @@
   
   <!-- Web Frameworks -->
   
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  
-  <img src="https://skillicons.dev/icons?i=vuejs" height="40" alt="vuejs logo" />
-  
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+
   
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo" />
-  
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  
+ 
   <!-- DevOps and Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
-  
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
-  
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-  
+
   <!-- Tools -->
   
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
